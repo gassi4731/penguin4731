@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Skills & Works → [Here](https://github.com/penguin4731/aboutme)
+
 <!--
 **penguin4731/penguin4731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
