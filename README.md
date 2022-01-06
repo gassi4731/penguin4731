@@ -4,7 +4,7 @@ Skills & Works → [Here](https://github.com/penguin4731/aboutme)
 
 ### 🌟 Github Stars
 
-![](https://github-readme-stats.vercel.app/api?username=penguin4731)
+![](https://github-readme-stats.vercel.app/api?username=penguin4731&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=penguin4731&layout=compact)
 
