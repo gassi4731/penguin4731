@@ -1,6 +1,12 @@
-### Hi there 👋
+### 👋 Hi there 
 
 Skills & Works → [Here](https://github.com/penguin4731/aboutme)
+
+### 🌟 Github Stars
+
+![](https://github-readme-stats.vercel.app/api?username=penguin4731)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=penguin4731&layout=compact)
 
 <!--
 **penguin4731/penguin4731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
