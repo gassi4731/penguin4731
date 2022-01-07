@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Skills & Works → [Here](https://github.com/penguin4731/aboutme)
+Skills & Works → [Here](aboutme/README.md)
 
 ### 🌟 Github Stars
 
