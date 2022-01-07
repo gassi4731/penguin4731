@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Skills & Works → [Here](aboutme/README.md)
+Skills & Works → [Here](aboutme)
 
 ### 🌟 Github Stars
 
