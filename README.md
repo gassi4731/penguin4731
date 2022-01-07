@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Skills & Works → [Here](aboutme)
+Skills & Works → [Here](about_me)
 
 ### 🌟 Github Stars
 
