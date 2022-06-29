@@ -1,8 +1,8 @@
 # Yo Higashida
 
 ## Skills
-- Flutter
 - Swift
+- Flutter
 - Vue.js
 - Nuxt.js
 - HTML / CSS
@@ -10,6 +10,8 @@
 
 ## Intership & Job
 ### 2020~ Life is Tech! Inc. Mentor
+- Leaders（研修プログラム)
+  - Webサービスプログラミングコース（Ruby）
 - Curriculum Team
   - Webサービスプログラミングコース（Ruby）
 - 担当可能コース
@@ -30,6 +32,9 @@
 ### 2021夏 チームラボ株式会社　サマーインターン
 モバイルアプリチームにて、2週間のサマーインターンを経験。
 
+### 2022年春~ 株式会社プレタポ 業務委託
+iOSアプリケーションを開発。
+
 ### Awards
 - [JPHacks in 2020 Innovator認定](https://jphacks.com/2020/result/innovator/)
 - JPHacks in 2020 Dブロック Best Hacking Sprint Award 2位
@@ -39,6 +44,7 @@
 - [Zenn](https://zenn.dev/penguin4731)
 - [Note](https://note.com/penguin1234)
 - [Study Room](https://youtu.be/meBisgAGHmg?t=7640)
+- DJ System
 
 ## Education
 
@@ -46,15 +52,12 @@
 
 #### コース: SSコース（スーパーサイエンスコース）
 
-理数系のコースで学びを深めた。スーパーサイエンスハイスクールに指定されていたこともあり、課題研究の授業では専門の機械を用いて実験を行った。最終的には、英語でポスターを作成しJSSF（Japan Super Science Fair）でポスター発表を行った。
+理数系のコースで学びを深めた。SSH(スーパーサイエンスハイスクール）に指定されていたこともあり、課題研究の授業では3Dプリンターなど専門の機械を用いて実験を行った。最終的には、英語でポスターを作成しJSSF（Japan Super Science Fair）でポスター発表を行った。
 
 #### 正課活動
 - 高校3年
   - 宇宙エレベーターロボット競技会 全国大会出場。
-- 卒業
-  - 清和会木村賞奨励賞を受賞
-
-以下の生徒会活動を始めとする課外活動や宇宙エレベーターロボット競技会の成績を評価していただき、奨励賞をいただくことができた。
+  - 清和会木村賞奨励賞を受賞（卒業時)
 
 #### 課外活動
 - 高校1年~高校3年
@@ -67,21 +70,10 @@
 
 ### 2020~ 立命館大学 情報理工学部 情報理工学科
 
+#### 正課活動
 - 2020年4月 立命館大学　情報理工学部 情報理工学科に入学。
 - 2020年9月 先端社会デザインコースに配属。
 
-
-<!--
-**penguin4731/penguin4731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 課外活動
+- 大学2年~
+  - [立命館大学写真部](https://rupc.net/) 会計
