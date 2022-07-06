@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-Skills & Works → [Here](about_me)
+Skills & Works → [Here](https://gassi.tech/)
 
 ### 🌟 Github Stars
 
